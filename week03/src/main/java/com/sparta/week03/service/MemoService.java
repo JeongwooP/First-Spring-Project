@@ -1,8 +1,8 @@
 package com.sparta.week03.service;
 
-import com.sparta.week03.Domain.Memo;
-import com.sparta.week03.Domain.MemoRepository;
-import com.sparta.week03.Domain.MemoRequestDto;
+import com.sparta.week03.domain.Memo;
+import com.sparta.week03.domain.MemoRepository;
+import com.sparta.week03.domain.MemoRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
