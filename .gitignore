@@ -95,3 +95,4 @@ settings.gradle
 application.properties
 gradle/
 build.gradle
+X-Naver-Client.json
